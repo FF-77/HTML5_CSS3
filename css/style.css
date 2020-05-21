@@ -1,0 +1,65 @@
+
+header {
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+body {
+    border: #08088A;
+    background-color: #FFFFFF;
+    margin: center;
+        
+
+}
+
+h1 {
+    color:#08088A;
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+}
+
+h2 {
+    color: #08088A;
+    font-size: 17px;
+    font-family: 'Comic Sams';
+}
+
+
+.pagina_principal {
+   width:1250px;
+   height:1700px;
+   border:solid 2px;
+   border-color: #FFFFFF;
+   border-radius:10px;
+   background-color:#E0F2F7;
+   box-shadow: 10px 10px 10px 5px black
+}
+
+.img_1 {
+    width: 700px;
+    height: 250px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius:10px;
+    
+}
+
+.img_2 {
+    width: 700px;
+    height: 250px;
+    margin-top: 40px;
+    margin-bottom: 20;
+    border-radius:10px;
+}
+
+
+footer {
+    margin-top: 70px;
+    margin-bottom: 40px;
+    color:#000000;
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    font-size: 12px;
+   
+}
